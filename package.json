@@ -1,0 +1,23 @@
+{
+  "name": "starter-counter",
+  "version": "1.0.0",
+  "description": "React Counter",
+  "dependencies": {
+    "@material-ui/core": "3.4.0",
+    "prop-types": "15.6.2",
+    "react": "16.6.1",
+    "react-dom": "16.6.1",
+    "react-redux": "6.0.0",
+    "react-scripts": "2.1.1",
+    "redux": "4.0.1",
+    "redux-thunk": "2.3.0"
+  },
+  "scripts": {
+    "start": "PORT=3030 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "license": "Beerware",
+  "keywords": []
+}
